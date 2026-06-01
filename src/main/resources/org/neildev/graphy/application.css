@@ -1,0 +1,9 @@
+.split-pane:horizontal > .split-pane-divider {
+    -fx-background-color: #1d1d1d; /* Red divider */
+    -fx-padding: 2px; /* Adds padding around the divider */
+}
+
+.split-pane:vertical > .split-pane-divider {
+    -fx-background-color: #0000ff; /* Blue divider */
+    -fx-padding: 5px;
+}
